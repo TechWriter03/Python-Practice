@@ -1,4 +1,6 @@
 class Student:
+
+    # static variables
     sno=0
     dept="CSE"
     college="REC"
